@@ -1,0 +1,34 @@
+{
+    "posts":[
+        {
+            "thumb": "https://a.imagem.app/oD3qPJ.png",
+            "title": "O que é linguagem de programação? Conheça as principais",
+            "description": "Uma das mais populares vertentes da tecnologia da informação, a área de..."
+        },
+        {
+            "thumb": "https://a.imagem.app/oD3jhG.png",
+            "title": "Python: por que a linguagem é tão usada para Data Science e finanças?",
+            "description": "O mundo da programação conta com algumas opções de linguagem para..."
+        },
+        {
+            "thumb": "https://a.imagem.app/oD3lqm.png",
+            "title": "GitHub tem receita de US$ 1 bilhão e 90 milhões de usuários",
+            "description": "O popular serviço de repositório de código GitHub foi adquirido pela..."
+        },
+        {
+            "thumb": "https://a.imagem.app/oD35mX.png",
+            "title": "15 comandos no GIT que os desenvolvedores precisam saber",
+            "description": "Dominar os comandos GIT é uma habilidade que se conquista com..."
+        },
+        {
+            "thumb": "https://a.imagem.app/oD3cob.png",
+            "title": "GIT e GitHub: o que são e quais as diferenças entre eles?",
+            "description": "Git e GibHub são dois softwares de controle de versão essenciais para..."
+        },
+        {
+            "thumb": "https://a.imagem.app/oD3wE1.png",
+            "title": "GitHub Copilot ganha integração com GPT-4 e interface conversacional",
+            "description": "O GitHub Copilot, ferramenta de desenvolvimento baseada em IA..."
+        }
+    ]
+}
