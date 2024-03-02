@@ -4,7 +4,7 @@ import { CardPost } from "../CardPost"
 export const ListPost = () => {
 
     return (
-        <section
+        <section id="article"
             className="xl:max-w-[1216px] mx-auto lg:max-w-[800px] w-full"
         >
             <h2 className="xl:text-3xl text-2xl mb-10 font-bold text-[#121214]">

@@ -14,6 +14,7 @@ export const CardPost = ({ descriptiion, thumb, title }: CardPostProps) => {
             <img
                 src={thumb}
                 alt={`thumb ${title}`}
+                title={`thumb ${title}`}
                 className=" h-[175px]"
             />
             <div className="p-5">

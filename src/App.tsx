@@ -2,10 +2,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom"
 import { Home } from "./Pages/Home"
 import { Erro } from "./Pages/Erro"
 
-
 function App() {
-
-
   return (
     <BrowserRouter>
       <Routes>
@@ -15,5 +12,4 @@ function App() {
     </BrowserRouter>
   )
 }
-
 export default App
